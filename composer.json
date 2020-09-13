@@ -27,5 +27,6 @@
     },
     "scripts": {
         "ls": "dir"
-    }
+    },
+    "bin": ["buscar-cursos.php"]
 }
